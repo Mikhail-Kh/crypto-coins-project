@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CryptoCoins</string>
+    <string name="cryptoCoinsImage">CryptoCoinsImage</string>
+    <string name="symbol_holder">(%1$s)</string>
+    <string name="price_holder">$%1$s</string>
+    <string name="percentChange1h_holder">1 hour: %1$s%%</string>
+    <string name="image_holder">https://s2.coinmarketcap.com/static/img/coins/64x64/%1$d.png</string>
+    <string name="error">Error</string>
+</resources>
