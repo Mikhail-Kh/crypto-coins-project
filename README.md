@@ -5,3 +5,4 @@ Room, Glide, Moshi, Retrofit2, OkHttp3, Kotlin Coroutines, Dagger2
 ### The architecture:
 MVVM pattern, Clean Architecture, SOLID
 #### Screenshot
+<img height="500" src="https://user-images.githubusercontent.com/61590423/121175690-0882b280-c864-11eb-9d69-2e2f0f0e456e.png" >
